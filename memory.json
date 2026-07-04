@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "project": "NLP Hub - Nha phan phoi nguyen lieu pha che khu Xuan Loc - Long Khanh - Dong Nai",
+    "owner_location": "TP.HCM (dia gioi hanh chinh moi - sau sap nhap 2025 gom ca Binh Duong, Ba Ria-Vung Tau cu)",
+    "business_model": "B2B - NPP nguyen lieu cho quan do uong KHU VUC TP.HCM (dia gioi moi)",
+    "created": "2026-07-03",
+    "last_updated": "2026-07-03",
+    "version": 9
+  },
+  "decisions_made": [
+    "Chuyen huong tu mo quan nuoc sang lam nha phan phoi nguyen lieu (giam chi phi mat bang, tranh canh tranh quan le)",
+    "Dia ban muc tieu: Xuan Loc - Long Khanh - Cam My - Dinh Quan (con thua NPP, quan phai cho ship 1-2 ngay tu Bien Hoa/TPHCM)",
+    "Dinh vi: giao trong ngay + giay to ATTP day du + tang cong thuc mon hot hang thang",
+    "Co cau ton kho 80% hang VN quay nhanh / 20% hang nhap chon loc",
+    "Nguon chu luc de xuat: Gia Thinh Phat; nguon hang nhap: Le Gia/Horecavn; topping: Minh Hanh Food/Gia Uy",
+    "2026-07-03: Chu nhan xac nhan dia ban hoat dong la TP.HCM (dia gioi moi) - loi the: gan nguon hang gooc (GTP, Le Gia, Pha Che Viet...) giao trong ngay de dang; thach thuc: canh tranh NPP day dac hon Xuan Loc"
+  ],
+  "key_numbers": {
+    "von_khoi_diem": "50-150 trieu VND (lo hang dau + tu dong 10-15tr + xe giao)",
+    "bien_lai_nganh": "500d-30.000d/san pham, ~7%/don vi la muc vang - thang nho vong quay von",
+    "tan_suat_nhap_cua_quan": "2-4 lan/thang",
+    "muc_tieu_90_ngay": "15-20 quan nhap deu",
+    "kpi_theo_doi": [
+      "so quan mua lap lai/thang",
+      "vong quay ton kho",
+      "ty le cong no qua han"
+    ]
+  },
+  "trends": {
+    "last_checked": "2026-07-03",
+    "hot_now": [
+      {
+        "ten": "Tra sua CHOM CHOM (Katinat hero item 2026) + tra vai chom chom",
+        "nguyen_lieu": "chom chom tuoi/ngam duong + tra o long/nhai + bot sua + siro vai; gia von ~5k/ly 350ml theo cong thuc Vinbar",
+        "trang_thai": "VIRAL MANH - mon chu luc Katinat 2026; CO HOI VANG: chom chom la dac san Long Khanh-Xuan Loc, mua vu he dang rat re"
+      },
+      {
+        "ten": "Tra sua huong hoa (hoa que, nhai, hong) - xu huong Cafe Show VN 2026",
+        "nguyen_lieu": "tra nen + syrup hoa hong/hoa que, tra hoa nhai",
+        "trang_thai": "VIRAL 07/2026 - duoc gioi thieu tai trien lam Cafe Show"
+      },
+      {
+        "ten": "Matcha latte dau tay phan tang",
+        "nguyen_lieu": "matcha Nhat + mut dau (Berrino/Tomoxi) + sua tuoi + tran chau Kunhan",
+        "trang_thai": "VIRAL TikTok/Lemon8 - cong thuc lan truyen manh"
+      },
+      {
+        "ten": "Tra vai hoa hong / tra cam sa",
+        "nguyen_lieu": "vai Hosen + syrup hoa hong + syrup vai + fructose; cam sa: cam tuoi + sa + tra dao",
+        "trang_thai": "VIRAL - tim kiem nhieu nhat tren MXH dau 2026"
+      },
+      {
+        "ten": "Blended da xay kieu dessert (Matcha Raspberry, Taro Macchiato, Choco Mint)",
+        "nguyen_lieu": "bot matcha/khoai mon/cacao + kem beo + whipping + syrup",
+        "trang_thai": "VIRAL TikTok mua nong - visual phan tang"
+      },
+      {
+        "ten": "Soda/mocktail khong con (viet quat, dau, chanh day) + latte trai cay (nho cot dua, buoi sprite)",
+        "nguyen_lieu": "syrup Osterberg viet quat/dau + soda + trai cay tuoi",
+        "trang_thai": "VIRAL - dan van phong/gym chuong, thay ruou bia"
+      },
+      {
+        "ten": "Tea latte / tra dam vi it duong (o long sua, o long nhai)",
+        "nguyen_lieu": "tra o long rang, hong tra dam, sua tuoi, cold foam",
+        "trang_thai": "manh - kieu Phuc Long/Phe La"
+      },
+      {
+        "ten": "Matcha moi dang (latte, dau, yakult, muoi bien)",
+        "nguyen_lieu": "matcha Nhat culinary grade, sua yen mach",
+        "trang_thai": "bung no 2 nam lien, bien lai cao"
+      },
+      {
+        "ten": "Tra trai cay vi moi: vu sua, sau rieng, mang cut",
+        "nguyen_lieu": "tra nen + mut/syrup Osterberg-Berrino, dao Rhodes, vai Hosen",
+        "trang_thai": "vi moi noi 2026"
+      },
+      {
+        "ten": "Healthy: cold-pressed, kombucha, sua hat, tran chau konjac",
+        "nguyen_lieu": "sua Oatside, hat chia, stevia/monk fruit, konjac pearls",
+        "trang_thai": "ben vung, tang dan"
+      }
+    ],
+    "watch_list": [
+      "tran chau konjac it calo",
+      "tra sua healthy ca nhan hoa",
+      "bao bi xanh",
+      "do uong limited theo mua",
+      "tra sua huong hoa",
+      "khoai mon comeback",
+      "latte trai cay la (buoi sprite, nho cot dua)",
+      "tra sua chom chom - nguyen lieu dia phuong Dong Nai",
+      "matcha Trung Quoc thay the matcha Nhat",
+      "may chiet xuat tra ap suat cao (chuan hoa Katinat)"
+    ],
+    "gia_bien_dong": {
+      "last_checked": "2026-07-03",
+      "canh_bao": [
+        "MATCHA NHAT TANG GIA KY LUC +170%: Ito En tang gia ban 50-100%; nguon cung khan hiem toan cau; gia nhap pho thong 4-5k/gram, cao cap 15-20k/gram (baodautu, baomoi 11/2025)",
+        "Xu huong doi nguon: nhieu chuoi VN chuyen sang matcha Trung Quoc gia thap hon - co hoi ban song song 2 dong (Nhat premium + TQ pho thong)",
+        ">45% doanh nghiep F&B da tang gia ban le de bu chi phi (iPOS) - quan nho rat nhay cam gia, NPP giu gia on dinh se thang"
+      ]
+    }
+  },
+  "product_catalog_summary": {
+    "tra_nen": {
+      "chu_luc_VN": [
+        "Loc Phat 84-165k/500g",
+        "Hoang Gia 95k/500g",
+        "Tan Nam Bac 75k/500g",
+        "Phuc Long 109k/kg"
+      ],
+      "cao_cap_nhap": [
+        "Hoa Tran so 9 (CN Dai Loan)",
+        "hong tra co niem Dai 150-250k/500g"
+      ]
+    },
+    "bot_kem_beo": {
+      "bat_buoc_nhap": [
+        "Frima Han Quoc ~1.62tr/bao25kg - ma ban chay so 1",
+        "Kievit Indonesia ~1.6tr/bao25kg",
+        "B-One Thai Lan 60-70k/kg"
+      ],
+      "meo": "mua bao 25kg chia tui 1kg tang bien lai (can nhan phu + ATTP kho)"
+    },
+    "matcha_bot": {
+      "hot": "matcha Nhat 250k-1.5tr/100g (culinary 300-500k du dung)",
+      "phu": [
+        "bot khoai mon",
+        "bot cacao - nguon Dinh Quan Dong Nai ngay canh"
+      ]
+    },
+    "syrup_mut": {
+      "VN_80pct": [
+        "Golden Farm 58-74k/700ml (26+ vi)",
+        "Osterberg 124-150k/750ml",
+        "Berrino 100-140k"
+      ],
+      "nhap_20pct": [
+        "Monin Phap 250-350k",
+        "Torani My",
+        "Teisseire Phap - chi tru vi ban chay"
+      ]
+    },
+    "tran_chau_topping": {
+      "VN_60pct": [
+        "Kunhan 85k/3kg",
+        "Gia Uy (CN Dai san xuat VN)",
+        "Krub.O 46k/kg",
+        "thach 3Q Minh Hanh 90-130k/2kg"
+      ],
+      "Dai_40pct": [
+        "Wings 147k/3kg",
+        "Dou Xian 140-160k",
+        "Andes 150-180k",
+        "trang Dai 175k/3kg"
+      ]
+    },
+    "trai_cay_hop": {
+      "phai_co": [
+        "dao Rhodes 60-75k/lon820g - quan goi dich danh",
+        "vai Hosen 45-60k/lon"
+      ]
+    },
+    "sua_kem": [
+      "sua dac Ngoi Sao Phuong Nam - dai ly cap 1 dia phuong",
+      "Dalat Milk cho quan dam vi",
+      "kem Rich's lon xanh",
+      "sua hat Oatside"
+    ],
+    "trai_cay_tuoi": {
+      "loi_the_san_nha": [
+        "nha vuon VietGAP Xuan Loc - Long Khanh",
+        "cho dau moi Dau Giay",
+        "chanh xe Da Lat (dau tay, bo)"
+      ],
+      "nhap": "Phuc Loc Tho Fruits (CO/CQ) - chi theo don dat"
+    },
+    "bao_bi": [
+      "ly PP/PET + in logo cho quan = dich vu giu chan",
+      "may ep mieng ly 3-7tr ban kem cam ket mua mang"
+    ]
+  },
+  "suppliers": [
+    {
+      "ten": "Gia Thinh Phat (GTP)",
+      "nhom": "nha san xuat - NGUON CHU LUC",
+      "dia_chi": "22 Dat Thanh, P.6, Tan Binh, TPHCM",
+      "lien_he": "1900 299 948 | Zalo 0914 092 889 | gtp.com.vn",
+      "the_manh": "nha may rieng tu 2007, 2000 doi tac phan phoi, chuan xuat khau My/Uc/Nhat/Han",
+      "status": "DA THAM DINH SO BO 03/07/2026: Uy tin TOT. Website cong khai minh bach thanh phan/phu gia tung SP (dau hieu tuan thu cong bo). Nha may rieng, 2000 doi tac. Chua thay khieu nai cong khai. CAN: den truc tiep xin ban cong bo SP + giay ATTP co so truoc khi ky.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Minh Hanh Food",
+      "nhom": "nha san xuat topping",
+      "dia_chi": "Tru so Hung Yen; CN Mien Nam TPHCM (FB: MHFMN)",
+      "lien_he": "0363 082 083 | minhhanhfood.vn",
+      "the_manh": "nha may tran chau/thach 3Q",
+      "status": "DA THAM DINH SO BO 03/07/2026: Uy tin KHA. FB 12.100+ likes, dinh vi nha may thach/tran chau dan dau nganh, hang Viet. Co kenh cong thuc ho tro quan. CAN: hoi giay ATTP nha may + cong bo tung SP khi lam viec voi CN Mien Nam.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Linh Dan",
+      "nhom": "nha san xuat/XNK - co chuong trinh dai ly",
+      "dia_chi": "158 TL41, P. An Phu Dong, Q.12, TPHCM",
+      "lien_he": "0902 499 377 | phugiathucphamld.com",
+      "the_manh": "chiet khau dai ly cao hon gia si, dao tao, doi hang loi",
+      "status": "THAM DINH MOT PHAN 03/07/2026: it review doc lap cong khai; the manh tu cong bo (chiet khau dai ly, doi hang loi). CAN den truc tiep kiem tra kho + giay ATTP truoc khi ky dai ly.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Tra Loc Phat",
+      "nhom": "nha cung cap tra VN - tuyen NPP",
+      "dia_chi": "NPP tai HCM: Vinbar - 625 Xo Viet Nghe Tinh, P.26, Binh Thanh",
+      "lien_he": "Zalo 0938 664 557 | tralocphat.com",
+      "the_manh": "tra VN gia si, ho tro cong thuc mien phi",
+      "status": "DA THAM DINH 03/07/2026: Uy tin KHA. Chophache: SP dam bao VSATTP boi co quan giam dinh trong va ngoai nuoc, phan phoi ca thi truong quoc te. Quy mo truyen thong nho hon GTP.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Le Gia Viet Nam",
+      "nhom": "NPP hang nhap chinh hang",
+      "dia_chi": "36/29 Huynh Thien Loc, Tan Phu, TPHCM",
+      "lien_he": "0938 666 200 | nguyenlieulegia@gmail.com | legiavietnam.vn",
+      "the_manh": "NPP chinh thuc Monin, Torani, Teisseire, Osterberg, Hershey, Giffard",
+      "status": "DA THAM DINH SO BO 03/07/2026: Uy tin TOT. Saigonreview 05/2026: kiem dinh khat khe truoc khi len ke, gia vua phai, doi tra neu hang gia/nhai, giao tu don >100k. Phan phoi chinh hang Monin/Torani/Teisseire.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Pha Che Viet",
+      "nhom": "NPP tong hop - chuoi 10 cua hang",
+      "dia_chi": "1013 Phan Van Tri, Go Vap, TPHCM (MST 0314318361)",
+      "lien_he": "1900 099 949 | info@phacheviet.com | sieuthinguyenlieu.com",
+      "the_manh": "mot cua da dang nhat, du giay VSATTP + hoa don",
+      "status": "DA THAM DINH SO BO 03/07/2026: Uy tin TOT. Lypham 11/2025 + Kim Tinh: chat luong on dinh, gia si canh tranh, giao nhanh khu trung tam, dong goi can than, giao dung hen. Co uu dai combo cho khach si dinh ky.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Nhat Huong Bartenders Mart",
+      "nhom": "NPP tong hop lau doi",
+      "dia_chi": "L3-155 Tan Ky Tan Quy (Tan Phu); L1-61A Tran Quang Dieu (Q.3); L3-21 Nguyen Thi Thap (Q.7)",
+      "lien_he": "dat qua web Nhat Huong, freeship don >= 2tr",
+      "the_manh": "1500+ mat hang + may moc",
+      "status": "DA THAM DINH 03/07/2026: Uy tin TOT. Top 1 toplist dung cu pha che TPHCM; adtimin: hang nhap chinh ngach + hang tu san xuat nen gia tot, ho tro ship tinh xa. Hotline moi ghi nhan: 0911 789 697.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Horecavn",
+      "nhom": "NPP hang nhap Au My",
+      "dia_chi": "48 ngo 279 Doi Can, Ba Dinh, Ha Noi (giao toan quoc, Shopee: horecavn)",
+      "lien_he": "0919 906 266 / 0978 906 266 | horecavn.com",
+      "the_manh": "700+ mat hang, giay to nhap khau minh bach",
+      "status": "DA THAM DINH SO BO 03/07/2026: Uy tin TOT. Kiotviet: co chung nhan ATVSTP, nguon goc ro rang, chiet khau uu dai, khuyen mai thuong xuyen. Manh mien Bac - don mien Nam qua Shopee/website.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "CHi Gourmet / IDOCEAN",
+      "nhom": "NPP online",
+      "dia_chi": "nguyenlieuphache.vn",
+      "lien_he": "hotline/chat tren web",
+      "the_manh": "nhan Luave: ISO 9001:2015 & FSSC 22000, chung nhan BYT",
+      "status": "THAM DINH MOT PHAN 03/07/2026: tu cong bo ISO 9001 & FSSC 22000 (nhan Luave) - can yeu cau ban scan chung chi khi lam viec. It review doc lap.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "P-Taste",
+      "nhom": "NPP hang trend - dang tuyen NPP toan quoc",
+      "dia_chi": "TPHCM - ptaste.vn",
+      "lien_he": "0789 838 858 | 0931 838 858",
+      "the_manh": "hang xu huong, demo 1:1 mien phi, freeship cuoc don tinh >2tr",
+      "status": "DA THAM DINH 03/07/2026: Uy tin KHA-TOT. Duoc mytour/toplist xep top dia chi dung cu + nguyen lieu pha che TPHCM; co Academy dao tao + du an setup quan thuc te (Quynh Anh Coffee, Goc Binh Yen...). Chua thay khieu nai cong khai.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Kamereo",
+      "nhom": "nen tang B2B online",
+      "dia_chi": "33 Nguyen Huu Tho, P. Tan Hung, Q.7, TPHCM",
+      "lien_he": "1800 6922 | kamereo.vn",
+      "the_manh": "dat online co hoa don, ca rau cu trai cay, giao dem",
+      "status": "THAM DINH MOT PHAN 03/07/2026: nen tang B2B co von ngoai, hoa don day du - phu hop don bo sung. Chua quet duoc danh gia nha hang gan day, can hoi 2-3 quan dang dung thuc te.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Phuc Loc Tho Fruits",
+      "nhom": "si trai cay nhap khau",
+      "dia_chi": "496/1/52 Duong Quang Ham, P.6, Go Vap, TPHCM (MST 0317473982)",
+      "lien_he": "0777 677 773 | phuclocthofruits.com",
+      "the_manh": "trai cay nhap CO/CQ + kiem dich",
+      "status": "THAM DINH MOT PHAN 03/07/2026: MST hop le 0317473982 (thanh lap 2022), co CO/CQ + kiem dich theo cong bo. Cty tre - nen thu don nho truoc.",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Tien Huynh (DOI THU)",
+      "nhom": "doi thu Bien Hoa - chuan so sanh",
+      "dia_chi": "86 Le Thanh Ton, P. Thanh Binh; 166 Ha Huy Giap, P. Quyet Thang, Bien Hoa",
+      "lien_he": "0251 730 1968 | 0919 155 166",
+      "the_manh": "chuoi lon nhat khu vuc Dong Nai",
+      "status": "can khao sat gia",
+      "last_checked": "2026-07-03"
+    },
+    {
+      "ten": "Nguyen Dang (DOI THU gan nhat)",
+      "nhom": "doi thu Trang Bom",
+      "dia_chi": "519 Tay Lac, An Chu, Bac Son, Trang Bom, Dong Nai",
+      "lien_he": "-",
+      "the_manh": "co Phuc Long, Rhodes, Hosen, Monin",
+      "status": "can khao sat gia",
+      "last_checked": "2026-07-03"
+    }
+  ],
+  "compliance": {
+    "tra_cuu_ATTP": "CANH BAO: nghidinh15.vfa.gov.vn NGUNG HOAT DONG tu 01/04/2025. Kenh moi: (1) congbosanpham.vfa.gov.vn - tra ban cong bo SP nhap khau; (2) vnsw.gov.vn - dich vu cong 1 cua quoc gia; (3) vfa.gov.vn - Cuc ATTP, canh bao co so vi pham; (4) sattp.hochiminhcity.gov.vn - So ATTP TPHCM muc Danh sach co so du dieu kien; (5) Hotline Cuc ATTP: (024) 38464489, phan anh vi pham: 04.32321556",
+    "giay_to_can_doi_hang_VN": [
+      "ban tu cong bo san pham",
+      "giay ATTP co so cua nha may",
+      "hoa don VAT"
+    ],
+    "giay_to_can_doi_hang_nhap": [
+      "CO xuat xu",
+      "CQ chat luong",
+      "to khai hai quan/kiem dich",
+      "NHAN PHU TIENG VIET (bat buoc - khong co = hang troi noi)"
+    ],
+    "phap_ly_cua_minh": [
+      "dang ky ho kinh doanh nganh ban buon thuc pham",
+      "giay ATTP cho kho",
+      "kho: ke cach san/tuong, tu dong hang lanh",
+      "luu ho so hoa don + cong bo cua moi nguyen lieu"
+    ]
+  },
+  "action_log": [
+    {
+      "date": "2026-07-03",
+      "action": "Hoan thanh nghien cuu thi truong + danh muc nguyen lieu + danh ba NCC + dong goi du an web & agent",
+      "next": "Goi hen 3 NCC (GTP 1900299948, P-Taste 0789838858, Linh Dan 0902499377) va len lich 1 chuyen TPHCM"
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Quet trend thang 7/2026: xac dinh 5 mon viral (tra sua huong hoa, matcha dau phan tang, tra vai hoa hong/cam sa, blended dessert, soda mocktail). Doi dia ban sang TP.HCM (dia gioi moi).",
+      "next": "Tru them: syrup hoa hong + hoa que, mut dau Berrino, matcha culinary Nhat, bot khoai mon, syrup viet quat Osterberg, vai Hosen. Bao gia cho khach quan kem cong thuc 5 mon."
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Lenh /ncc: tham dinh 5 NCC chu luc (GTP, Le Gia, Pha Che Viet, Minh Hanh, Horecavn) - deu uy tin TOT/KHA. PHAT HIEN QUAN TRONG: cong nghidinh15.vfa.gov.vn NGUNG tu 01/04/2025 -> cap nhat 5 kenh tra cuu moi vao compliance. Da dong bo len web index.html (khoi Tinh trang tham dinh NCC).",
+      "next": "Den truc tiep GTP + Le Gia xin ho so phap ly goc (ban cong bo SP, giay ATTP co so). Tra ten cong ty tren congbosanpham.vfa.gov.vn va sattp.hochiminhcity.gov.vn. Chay collector.py hang tuan de theo doi lien tuc."
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Quet tuan + tham dinh dot 2 (7 NCC con lai - xong 12/14). PHAT HIEN: (1) Matcha Nhat tang gia +170%, chuoi lon chuyen dan sang matcha TQ; (2) Tra sua CHOM CHOM la hero item Katinat 2026 - nguyen lieu chinh la dac san Xuan Loc/Long Khanh; (3) >45% F&B tang gia ban - quan can NPP giu gia on dinh.",
+      "next": "3 HANH DONG TUAN TOI: (1) NHAP: chot gia matcha 2 dong (Nhat premium + TQ pho thong) TRUOC khi tang tiep + mua chom chom Long Khanh dau vu lam mau chao hang; (2) CHAO QUAN: combo 'Tra sua chom chom Katinat-style' (cong thuc + chom chom ngam + siro vai + tra o long) gia von ~5k/ly; (3) DINH VI: cam ket giu gia 3 thang cho khach ky hop dong quy - danh vao noi dau 45% quan bi tang gia dau vao."
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Nang cap web index.html: (1) khoi 'Truy cap nhanh website nha cung ung' - 18 nut bam mo truc tiep trang chinh thuc cua NCC (phan loai: nha san xuat goc / NPP / trai cay / so gia / TMDT); (2) toan bo ten mien NCC trong bang danh ba + footer deu thanh link bam duoc (25 cho); (3) kem 3 link cong tra cuu ATTP moi.",
+      "next": "Khi co NCC moi -> them nut vao khoi Truy cap nhanh + hang moi trong bang danh ba + entry trong memory suppliers."
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Kiem ke kho thuc te tu anh chup: nhan dien 9 nhom SP dang co (Berrino, Golden Farm squash + socola, BKB kem cheese, Frima 1kg, cacao TRONG DUC Dong Nai - xac nhan gia thuyet nguon dia phuong!, muoi hong, siro Thai). Tra gia thi truong tung mon + NCC goi y. Dong bo len web index (khoi Kho hien tai).",
+      "next": "Toi uu chi phi: (1) Frima chuyen tui 1kg -> bao 25kg tiet kiem ~15%; (2) dam phan truc tiep Golden Farm/Vinafruit gia dai ly thay vi mua le; (3) lien he Ca Cao Trong Duc lam nguon doc quyen dia phuong."
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Nang cap UI web: (1) bam vao tung dong san pham trong Bang chi tiet + bang Kho hien tai -> bat anh minh hoa to (lightbox) ngay; (2) them hieu ung dong: header gradient chuyen sac, the/carc xuat hien fadeUp so le, anh zoom khi hover, nhan HOT nhap nhay pulse, lightbox zoomIn; (3) icon may anh + con tro zoom-in bao hieu dong bam duoc.",
+      "next": "Co the them anh rieng cho tung thuong hieu (Frima, Rhodes, Golden Farm...) neu can catalogue chi tiet hon."
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Nang cap thu vien anh da dang: tao 10 anh nguyen lieu rieng (hong tra, oolong, tra lai, khoai mon, cacao, dau tay, viet quat, tra dao, tra vai, ca phe muoi) -> tong 20 anh nhung base64 trong index.html (1.98MB). Logic click moi: moi dong san pham khop bo anh rieng theo tu khoa; bam lan 1 hien anh chinh, bam tiep DOI sang anh khac trong bo (hien so 1/2, 2/3...).",
+      "next": "Neu can them anh chom chom/chanh day/bao 25kg thuong hieu that -> tao them phien sau (da het luot tao anh phien nay)."
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Tao website ban hang shop.html (1 file, 18 anh nhung, 1.49MB) de chia se cho cua hang: hero + 18 the san pham gia tham khao + combo chom chom + 6 cam ket + lien he day du (hotline 0389045248, showroom Binh Thanh, kho Dai Phuoc Nhon Trach). Nut goi/Zalo noi truc tiep, thanh goi mobile, lightbox anh, hieu ung reveal.",
+      "next": "Dua shop.html len Netlify/GitHub Pages de co link chia se Zalo cho cac quan."
+    }
+  ],
+  "pending_questions": [
+    "Muc nhap toi thieu de huong gia NPP tai GTP?",
+    "GTP/P-Taste/Linh Dan co cho doc quyen khu vuc Xuan Loc - Long Khanh khong?",
+    "Chi phi van chuyen TPHCM -> Xuan Loc ai chiu?",
+    "Nguon tran chau konjac it calo o VN da co ai san xuat chua?",
+    "Syrup hoa hong/hoa que chinh hang: Le Gia (Monin Rose) hay Golden Farm co vi nay khong - can goi kiem tra gia si?",
+    "Voi dia ban TP.HCM moi: nen thue kho khu nao de giao nhanh (Thu Duc? Binh Chanh? Di An cu?)"
+  ],
+  "kho_hien_tai": {
+    "ngay_kiem_ke": "2026-07-03",
+    "nguon": "2 anh chup ke kho do chu nhan gui",
+    "san_pham_nhan_dien": [
+      {
+        "ten": "Sinh to Berrino 1L (dau, oi do, viet quat, chanh day)",
+        "thuong_hieu": "Berrino - Vinafruit VN",
+        "gia_thi_truong": "85-90k/chai 1L (si 12 chai ~84k)",
+        "ncc_goi_y": "Vinbar/Phuong Linh, khohangtieudung.vn, Le Gia"
+      },
+      {
+        "ten": "Siro dam dac Golden Farm 700ml (Dao/Peach squash, Oi Hong/Pink guava, Dau)",
+        "thuong_hieu": "Golden Farm - Cty Canh Dong Vang VN",
+        "gia_thi_truong": "74-76k/chai 700ml (gia hang chinh thuc goldenfarm.com.vn)",
+        "ncc_goi_y": "goldenfarm.com.vn truc tiep hoac Pha Che Viet"
+      },
+      {
+        "ten": "Sot socola topping Golden Farm 580g",
+        "thuong_hieu": "Golden Farm VN",
+        "gia_thi_truong": "~55-70k/chai",
+        "ncc_goi_y": "goldenfarm.com.vn, sieuthinguyenlieu.com"
+      },
+      {
+        "ten": "Bot kem cheese BKB 500g (ISO 22000:2018)",
+        "thuong_hieu": "BKB - Minh Duc VN",
+        "gia_thi_truong": "73-90k/goi 500g (thung 10 goi)",
+        "ncc_goi_y": "khonguyenlieu.com (75k), haithuy.vn (73k)"
+      },
+      {
+        "ten": "Bot kem beo Frima 1kg",
+        "thuong_hieu": "Dongsuh Han Quoc (HACCP)",
+        "gia_thi_truong": "70k/kg, 335k/5kg, ~1.62tr/bao 25kg",
+        "ncc_goi_y": "Le Gia, Horecavn, Kenbar - CO HOI: chuyen mua tui 1kg sang bao 25kg tiet kiem ~15%"
+      },
+      {
+        "ten": "Bot cacao nguyen chat",
+        "thuong_hieu": "XAC NHAN: Cty TNHH Ca Cao Trong Duc - Dinh Quan DONG NAI (dung du doan truoc do cua du an!)",
+        "gia_thi_truong": "~100-150k/500g",
+        "ncc_goi_y": "mua truc tiep Trong Duc - trongducfood.com hoac cho dau moi"
+      },
+      {
+        "ten": "Muoi hong Himalaya (lam ca phe muoi)",
+        "thuong_hieu": "nhap khau",
+        "gia_thi_truong": "100-300k/kg tuy loai, si tui nho ~15-16.5k",
+        "ncc_goi_y": "thitruongsi.com, cho si gia vi"
+      },
+      {
+        "ten": "Siro squash Thai Lan (chanh day, blueberry 760ml)",
+        "thuong_hieu": "hang Thai",
+        "gia_thi_truong": "~60-80k/chai",
+        "ncc_goi_y": "Pha Che 168 Bien Hoa (chuyen hang Thai), Nguyen An"
+      },
+      {
+        "ten": "Mut dau tay (Le Fruit?)",
+        "thuong_hieu": "can xem lai nhan",
+        "gia_thi_truong": "-",
+        "ncc_goi_y": "Le Gia (Osterberg/Berrino thay the re hon)"
+      }
+    ],
+    "nhan_xet": "Kho hien tai thien ve do uong trai cay/sinh to + ca phe muoi. Da dung 2/3 thuong hieu chu luc du an de xuat (Berrino, Golden Farm, Frima, BKB). Co may in bill KiotViet = dang van hanh ban hang thuc te."
+  },
+  "business_info": {
+    "ten_thuong_hieu": "Nguyen Lieu Pha Che Mr. Hai",
+    "hotline_zalo": "0389045248",
+    "showroom": "Chung cu Cuu Long, Binh Thanh, TP.HCM",
+    "kho": "Hung Vuong, xa Dai Phuoc, Nhon Trach, Dong Nai",
+    "web_ban_hang": "shop.html"
+  }
+}
